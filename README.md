@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, my name is Yevhen 👋
+## Welcome to my workshop
+I'm front-end developer. My current technology stack is HTML dev. ,React.js, Wordpress. But also study to work with Express.js and MongoDB
 
 <!--
 **EugeneBatenko/EugeneBatenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
