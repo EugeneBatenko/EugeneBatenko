@@ -1,6 +1,6 @@
 # Hi there, my name is Yevhen 👋
 ## Welcome to my workshop
-I'm front-end developer. My current technology stack is HTML dev. ,React.js, Wordpress. But also study to work with Express.js and MongoDB
+I'm front-end developer (also quite well Full-stack developer). My current technology stack is HTML dev. ,React.js, Wordpress. Now I am working on my project in my free time (see Project Sahara) with MERN stack and socket.io
 
 <!--
 **EugeneBatenko/EugeneBatenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
