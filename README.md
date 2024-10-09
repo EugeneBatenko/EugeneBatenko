@@ -1,6 +1,8 @@
 # Hi there, my name is Yevhen 👋
 ## Welcome to my workshop
 I'm a Full-stack developer. My current technology stack is Node.js and React.js. 
+
+[![](https://visitcount.itsvg.in/api?id=WestLion&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **EugeneBatenko/EugeneBatenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eugene&icon=0&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
